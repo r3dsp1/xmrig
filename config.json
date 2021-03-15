@@ -7,12 +7,12 @@
         {
             "coin": null,
             "algo": "rx/0",
-            "url": "stratum+tcp://randomxmonero.usa-east.nicehash.com:3380",
-            "user": "3Gygbz1VxA2CY17kEBuG38rntUXtixa2VB",
+            "url": "pool.supportxmr.com:5555",
+            "user": "45MYBuXkLZ4FafFjRMmu9DHbFeCks5twe3gzz17i6YCdBMYuufzzqMbP2gG9UXDkhpBp66DJJBS6X1AaBCWaAUGy6kHrhDH",
             "pass": "x",
             "tls": false,
             "keepalive": true,
-            "nicehash": true
+            "nicehash": false
         }
     ]
 }
